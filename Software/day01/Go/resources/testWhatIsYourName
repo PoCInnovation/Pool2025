@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# TEST FUNCTION
+
+testWhatIsYourName () {
+    if [ "$1" == "$2" ]
+    then
+        echo "OK - TEST $3 PASSED"
+    else
+        echo "KO - TEST $3 FAILED"
+        exit
+    fi
+}
+
+# TEST 1 - CASE "toto"
+
+output=$(echo toto | ./SoftwareGoDay1)
+
+answer="What is your name ?
+> 
+Your name is toto"
+
+testWhatIsYourName "$output" "$answer" 1
+
+# TEST 2 - CASE "Slim Shady"
+
+output=$(echo Slim Shady | ./SoftwareGoDay1)
+
+answer="What is your name ?
+> 
+Your name is Slim Shady"
+
+testWhatIsYourName "$output" "$answer" 2
+
+# TEST 3 - CASE no value
+
+output=$(echo | ./SoftwareGoDay1)
+
+answer="What is your name ?
+> 
+Your name is "
+
+testWhatIsYourName "$output" "$answer" 3

@@ -12,7 +12,7 @@
 
 ### Installation
 
-[Explain how to install all of the project's dependencies]
+[Explain how to install all the project's dependencies]
 
 ### Quickstart
 
