@@ -58,6 +58,10 @@ In your script, you will need to do the following actions:
 - count the number of files in the `img_metadata` folder.
 - save each image on IPFS with the `ipfs_api`package.
 
+### **Documentation 📚**:
+
+- [IPFS-Toolkit documentation](https://pypi.org/project/IPFS-Toolkit/)
+
 ### **Task 3: Save the metadata on IPFS**
 
 Now that we have saved the images on IPFS, we will save the metadata of our NFT on IPFS.
