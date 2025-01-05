@@ -355,7 +355,7 @@ Approving a transaction means that you approve a given wallet to transfer your p
 
   > 💡 For these implementations we need to implement two mappings.
 
-  > :warning: Don't forget to take a look of the requirements of each function. Look at the comments on top of each function to know what they do and what event they nned to emit.
+  > :warning: Don't forget to take a look of the requirements of each function. Look at the comments on top of each function to know what they do and what event they need to emit.
 
 - ### **Task 4: Implement transferFrom function**
 
@@ -431,7 +431,7 @@ Let's add metadata to our NFTs to be able to see the name and the image of our p
     - `name`: which corresponds to the name of your NFT collection.
     - `symbol`: which corresponds to the abbreviation of the name.
     - `_baseURI`: which correspond to the base link of the nft metadata (an IPFS link in our case).
-      - Set its value to the base CID of the metadata you have deployed previously.
+      - Set its value to the base CID of the metadata. (Ask me for the CID of the metadata i have already uploaded on IPFS)
       The base URI of the metadata is a link like this `ipfs://QmVmTDg5sNBtt62r3ksQBKHVZK9mqJ4sH4Vyfgd6c3KDL9/`
 
 - ### **Task2: Implement the link of the metadata**
@@ -446,7 +446,7 @@ Let's add metadata to our NFTs to be able to see the name and the image of our p
 
   In case the URI need to be changed, implement a function to change it: 
   ```solidity
-  function setTokenURI(string calldata newURI) external
+  function setBaseURI(string calldata newURI) external
   ```
 
   > ⚠️ Only the Owner of the contract can change the URI
@@ -478,8 +478,8 @@ Congratulations! You have created your first NFT. You have learned how to create
 
 ## Authors
 
-| [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) | [<img src="https://github.com/sacharbon.png?size=85" width=85><br><sub>Sacha</sub>](https://github.com/sacharbon) |
-| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/MrSIooth.png?size=85" width=85><br><sub>Victor</sub>](https://github.com/MrSIooth) | [<img src="https://github.com/Alex-Prevot.png?size=85" width=85><br><sub>Alex</sub>](https://github.com/Alex-Prevot) | [<img src="https://github.com/Doozers.png?size=85" width=85><br><sub>Isma</sub>](https://github.com/Doozers) | [<img src="https://github.com/Nfire2103.png?size=85" width=85><br><sub>Nathan</sub>](https://github.com/Nfire2103) | [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) |
+| :--------------------------------------------------------------------------------------------------------------:  | :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 
 <h2 align=center>
 Organization

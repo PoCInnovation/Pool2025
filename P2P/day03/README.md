@@ -47,6 +47,7 @@ Please refer to the [SETUP.md](./SETUP.md) file.
 ### ✔️ **Validation**:
 
 - Run the validation script `./scripts/validate -1` then enter your CID to validate your work.
+> Use the script associated with your operating system.
 
 And that's it, we have created our first CID!
 It is now available on our machine and you can find it in `$HOME/.ipfs/blocks`.
@@ -271,8 +272,8 @@ Refer to the [official documentation](https://link.com) to deep-dive into it.
 Hope you enjoyed the workshop !
 
 ## Authors
-| [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) | [<img src="https://github.com/sacharbon.png?size=85" width=85><br><sub>Sacha</sub>](https://github.com/sacharbon) |
-| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/OnsagerHe.png?size=85" width=85><br><sub>Onsager</sub>](https://github.com/OnsagerHe) | [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) | [<img src="https://github.com/sacharbon.png?size=85" width=85><br><sub>Sacha</sub>](https://github.com/sacharbon) |
+|:---------------------------------------------------------------------------------------------------------------:| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
 
 <h2 align=center>
 Organization

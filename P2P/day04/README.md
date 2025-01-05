@@ -118,7 +118,7 @@ Now we will deploy our Pet NFT contracts on the [Sepolia testnet](https://www.al
 
   - Go to [Sepolia faucet](https://sepolia-faucet.com/), enter your wallet address and start earning some ETH.
     - Unfortunatly to prevent from bot to drain the faucet, it's long and you can't earn ETH infinitly.
-    - Just ask us to send you some ETH on the discord server.
+    - If you have some issue with the faucet, just ask us to send you some ETH on the discord server.
 
   The faucet is a website that allows you to get fake cryptocurrency, in our case, ETH on the `Sepolia testnet`. You need to have ETH to deploy your contracts.
 
@@ -224,8 +224,8 @@ Congratulations! You have deployed your first NFT contract on the blockchain and
 
 ## Authors
 
-| [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) | [<img src="https://github.com/sacharbon.png?size=85" width=85><br><sub>Sacha</sub>](https://github.com/sacharbon) |
-| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/MrSIooth.png?size=85" width=85><br><sub>Victor</sub>](https://github.com/MrSIooth) | [<img src="https://github.com/Alex-Prevot.png?size=85" width=85><br><sub>Alex</sub>](https://github.com/Alex-Prevot) | [<img src="https://github.com/Doozers.png?size=85" width=85><br><sub>Isma</sub>](https://github.com/Doozers) | [<img src="https://github.com/Nfire2103.png?size=85" width=85><br><sub>Nathan</sub>](https://github.com/Nfire2103) | [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) |
+| :--------------------------------------------------------------------------------------------------------------:  | :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 
 <h2 align=center>
 Organization

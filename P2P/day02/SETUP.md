@@ -14,7 +14,6 @@ curl -L https://foundry.paradigm.xyz | bash
 
 - Then, you can download foundry by running `foundryup`
 - If everything went fine you should be able to use `forge`, `anvil`, `chisel` and `cast`.
-- If you are on macos you will need to install `libusb` with
 
 ```bash
 brew install libusb

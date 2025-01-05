@@ -247,7 +247,7 @@ Now that you have created your smart contract, you will have to test it. For thi
   - This file will contain the tests of your smart contract
 - Create a contract helper `SmartContractHelper`.
   - This contract must inherit from your smart contract to access its variables and functions.
-  - Add some function who return the internal variables or call internal functions that you will test
+  - Add some functions who return the internal variables or call internal functions that you will test
 - Create a contract `SmartContractTest` who inherit from `Test` contract.
   - You have to import `Test` contract, this one is contained in lib/forge-std folder.
   - add a `smartContract` variable of type `SmartContractHelper`
@@ -255,8 +255,6 @@ Now that you have created your smart contract, you will have to test it. For thi
   - initialize the `smartContract` variable with a new `SmartContractHelper`
 - Create the next public functions to test your smart contract, by checking the function returned value, with the `smartContract` variable:
   - `testGetHalfAnswerOfLife` : This function will test the function `getHalfAnswerOfLife`
-  - `testGetMyEthereumContractAddress` : This function will test the function `_getMyEthereumContractAddress`
-  - `testMyEthereumAddress` : This function will test the variable `myEthereumAddress`
   - `testSetAreYouABadPerson` : This function will test the function `_setAreYouABadPerson`
   - `testMyInformations` : This function will test the variable `myInformations`
 - Execute the command [`forge test`](https://book.getfoundry.sh/reference/forge/forge-test) to run the tests.
@@ -266,6 +264,11 @@ Now that you have created your smart contract, you will have to test it. For thi
 > 💡 You can use the function `assertEq()` to test the returned value of a function with the correct value.
 
 Correct your smart contract, if you have errors.
+
+#### Bonus tasks:
+  - `testGetMyEthereumContractAddress` : This function will test the function `_getMyEthereumContractAddress`
+  - `testMyEthereumAddress` : This function will test the variable `myEthereumAddress`
+
 
 ### :books: **Documentation**:
 
@@ -569,8 +572,8 @@ Hope you enjoyed this day !
 
 ## Authors
 
-| [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) | [<img src="https://github.com/sacharbon.png?size=85" width=85><br><sub>Sacha</sub>](https://github.com/sacharbon) |
-| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/lucas-louis.png?size=85" width=85><br><sub>!LUK</sub>](https://github.com/lucas-louis) | [<img src="https://github.com/Nfire2103.png?size=85" width=85><br><sub>Nathan</sub>](https://github.com/Nfire2103) | [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) |
+| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------------: |
 
 <h2 align=center>
 Organization

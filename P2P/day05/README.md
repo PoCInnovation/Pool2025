@@ -77,8 +77,8 @@ I hope you will enjoy this challenges and that you will learn a lot from it.
 
 ## Authors
 
-| [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) | [<img src="https://github.com/sacharbon.png?size=85" width=85><br><sub>Sacha</sub>](https://github.com/sacharbon) |
-| :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) | [<img src="https://github.com/lucas-louis.png?size=85" width=85><br><sub>Lucas Louis</sub>](https://github.com/lucas-louis) | [<img src="https://github.com/0xtekgrinder.png?size=85" width=85><br><sub>0xtekgrinder</sub>](https://github.com/0xtekgrinder) | [<img src="https://github.com/AbdelkarimBENGRINE.png?size=85" width=85><br><sub>Abdelkarim Bengrine</sub>](https://github.com/0AbdelkarimBENGRINE) | [<img src="https://github.com/Nfire2103.png?size=85" width=85><br><sub>Nathan Flattin</sub>](https://github.com/Nfire2103) |
+| :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 
 <h2 align=center>
 Organization
