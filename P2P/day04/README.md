@@ -227,6 +227,8 @@ Congratulations! You have deployed your first NFT contract on the blockchain and
 | [<img src="https://github.com/MrSIooth.png?size=85" width=85><br><sub>Victor</sub>](https://github.com/MrSIooth) | [<img src="https://github.com/Alex-Prevot.png?size=85" width=85><br><sub>Alex</sub>](https://github.com/Alex-Prevot) | [<img src="https://github.com/Doozers.png?size=85" width=85><br><sub>Isma</sub>](https://github.com/Doozers) | [<img src="https://github.com/Nfire2103.png?size=85" width=85><br><sub>Nathan</sub>](https://github.com/Nfire2103) | [<img src="https://github.com/intermarch3.png?size=85" width=85><br><sub>Lucas Leclerc</sub>](https://github.com/intermarch3) |
 | :--------------------------------------------------------------------------------------------------------------:  | :------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 
+
+
 <h2 align=center>
 Organization
 </h2>

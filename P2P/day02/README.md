@@ -431,7 +431,7 @@ Let's add metadata to our NFTs to be able to see the name and the image of our p
     - `name`: which corresponds to the name of your NFT collection.
     - `symbol`: which corresponds to the abbreviation of the name.
     - `_baseURI`: which correspond to the base link of the nft metadata (an IPFS link in our case).
-      - Set its value to the base CID of the metadata. (Ask me for the CID of the metadata i have already uploaded on IPFS)
+      - Set its value to the base CID of the metadata. (We are not going to deploy our NFT today, set it to an empty string for now)
       The base URI of the metadata is a link like this `ipfs://QmVmTDg5sNBtt62r3ksQBKHVZK9mqJ4sH4Vyfgd6c3KDL9/`
 
 - ### **Task2: Implement the link of the metadata**

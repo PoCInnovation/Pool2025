@@ -266,6 +266,7 @@ Now that you have created your smart contract, you will have to test it. For thi
 Correct your smart contract, if you have errors.
 
 #### Bonus tasks:
+These tests can be hard to implement. If you don't really understand `msg.sender` and `this` you can skip this bonus for now.
   - `testGetMyEthereumContractAddress` : This function will test the function `_getMyEthereumContractAddress`
   - `testMyEthereumAddress` : This function will test the variable `myEthereumAddress`
 
