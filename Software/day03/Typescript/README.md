@@ -1,4 +1,4 @@
-# PoC Software Pool 2024 - Day 03 - REST API
+# PoC Software Pool 2025 - Day 03 - REST API
 
 **Day purposes**
 
