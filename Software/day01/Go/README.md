@@ -110,7 +110,7 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("You are ready to start the 2024 PoC software pool!")
+  fmt.Println("You are ready to start the 2025 PoC software pool!")
 }
 ```
 
