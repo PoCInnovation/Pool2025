@@ -1,42 +1,15 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
+# 👋 Welcome to PoC Pools 2025!
 
-# [PROJECT'S NAME]
+PoC is a student innovation center.
 
-[Project's description]
+Every year, we organize innovation weeks in a "pool" format to introduce people to our different fields. We start with the basics and then we go further and further in the concepts we cover. The objective is to give people a very solid technical background, to realize any project.
 
-## How does it work?
+Here are our fields:
+- 🕸️ [Peer-To-Peer](./P2P/)
+- 💻 [Software](./Software/)
+- 🧠 [AI](./AI)
 
-[Explain how this project is working]
-
-## Getting Started
-
-### Installation
-
-[Explain how to install all the project's dependencies]
-
-### Quickstart
-
-[Explain how to run this project]
-
-### Usage
-
-[Explain how to use this project]
-
-## Get involved
-
-You're invited to join this project ! Check out the [contributing guide](./CONTRIBUTING.md).
-
-If you're interested in how the project is organized at a higher level, please contact the current project manager.
-
-## Our PoC team ❤️
-
-Developers
-| [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy)
-| :---: | :---: | :---: |
-
-Manager
-| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>[Manager's name]</sub>](https://github.com/adrienfort)
-| :---: |
+We put all our heart to work, we hope you will enjoy it and that it will be useful to you.
 
 <h2 align=center>
 Organization
@@ -44,25 +17,23 @@ Organization
 
 <p align='center'>
     <a href="https://www.linkedin.com/company/pocinnovation/mycompany/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/pocinnovation/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo"
->
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://twitter.com/PoCInnovation">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter logo">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://discord.com/invite/Yqq2ADGDS7">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
 <p align=center>
     <a href="https://www.poc-innovation.fr/">
-        <img src="https://img.shields.io/badge/WebSite-1a2b6d?style=for-the-badge&logo=GitHub Sponsors&logoColor=white" alt="Website logo">
+        <img src="https://img.shields.io/badge/WebSite-1a2b6d?style=for-the-badge&logo=GitHub Sponsors&logoColor=white">
     </a>
 </p>
 
 > 🚀 Don't hesitate to follow us on our different networks, and put a star 🌟 on `PoC's` repositories
-
 > Made with ❤️ by PoC
