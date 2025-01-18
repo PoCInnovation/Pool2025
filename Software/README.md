@@ -57,7 +57,7 @@ In the second part, you'll discover how to deploy a project in production and se
 
 
 **Talk:**
-- Introduction to DevOps: Jean-Babtiste
+- Introduction to DevOps by **Jean-Babtiste**
 
 | [<img src="https://github.com/jdetroyes.png?size=85" width=85><br><sub>Jean-Baptiste Detroyes</sub>](https://www.linkedin.com/in/jdetroyes/)
 | :---: |
@@ -74,7 +74,7 @@ If you've already used React and Flutter, you can even choose Angular to dive fu
 - [Svelte](./day05/Svelte/)
 
 **Talk:**
-- Solutions de hosting: Lorenzo Rosmarino & Paul Monnery
+- Hosting solutions by **Lorenzo Rosmarino** & **Paul Monnery**
 
 | [<img src="https://github.com/LorenzoRosmarino.png?size=85" width=85><br><sub>Lorenzo Rosmarino</sub>](https://github.com/LorenzoRosmarino) | [<img src="https://github.com/PaulMonnery.png?size=85" width=85><br><sub>Paul Monnery</sub>](https://github.com/PaulMonnery) 
 | :---: | :---: |
