@@ -19,8 +19,6 @@ This choice will organize your week. You will learn something new in the chosen 
 - [Typescript](./day01/Typescript/)
 - [Go](./day01/Go/)
 
-**Talk:**
-- Devops (JB Detroyes): What's Devops and its tools ?
 
 
 ## ℹ️ Day 2 - Database
@@ -56,6 +54,14 @@ In the second part, you'll discover how to deploy a project in production and se
 - [Deployment](./day04/2%20-%20Deployment)
 
 
+
+
+**Talk:**
+- Introduction to DevOps: Jean-Babtiste
+
+| [<img src="https://github.com/jdetroyes.png?size=85" width=85><br><sub>Jean-Baptiste Detroyes</sub>](https://www.linkedin.com/in/jdetroyes/)
+| :---: |
+
 ## 🌹 Day 5 - User Interface
 
 During 4 days, you've worked on the `backend` part of an application. This day you will learn how to build the `frontend` part: the User Interface. You're free to choose React for web applications, or Flutter for mobile applications.
@@ -68,8 +74,10 @@ If you've already used React and Flutter, you can even choose Angular to dive fu
 - [Svelte](./day05/Svelte/)
 
 **Talk:**
-- Front end developers : Kiln
+- Solutions de hosting: Lorenzo Rosmarino & Paul Monnery
 
+| [<img src="https://github.com/LorenzoRosmarino.png?size=85" width=85><br><sub>Lorenzo Rosmarino</sub>](https://github.com/LorenzoRosmarino) | [<img src="https://github.com/PaulMonnery.png?size=85" width=85><br><sub>Paul Monnery</sub>](https://github.com/PaulMonnery) 
+| :---: | :---: |
 
 ## ⏰ Rush
 
@@ -80,11 +88,11 @@ By groups of 3 to 5, you will have to create a clone of Airbnb, Deezer, Linkedin
 
 
 
-| [<img src="https://github.com/Molaryy.png?size=85" width=85><br><sub>Mohammed JBILOU</sub>](https://github.com/Molaryy)
+| [<img src="https://github.com/eliestroun14.png?size=85" width=85><br><sub>Elie STROUN</sub>](https://github.com/eliestroun14)
 | :---: |
 
-| [<img src="https://github.com/adamdeziri.png?size=85" width=85><br><sub>Adam DEZIRI</sub>](https://github.com/adamdeziri) | [<img src="https://github.com/sephorah.png?size=85" width=85><br><sub>Séphorah ANIAMBOSSOU</sub>](https://github.com/sephorah) | [<img src="https://github.com/YlanGarnier.png?size=85" width=85><br><sub>Ylan GARNIER</sub>](https://github.com/YlanGarnier)
-| :---: | :---: | :---: | 
+| [<img src="https://github.com/molaryy.png?size=85" width=85><br><sub>Mohammed JBILOU</sub>](https://github.com/molaryy) | [<img src="https://github.com/pierrelissope.png?size=85" width=85><br><sub>Pierre LISSOPE</sub>](https://github.com/pierrelissope) 
+| :---: | :---: |
 
 <h2 align=center>
 Organization

@@ -32,8 +32,9 @@ everything works using the command below:
 ```shell
 # Version must be at least 1.16
 go version
-# go version go1.19.4 linux/amd64
+# go version go1.23.1 linux/amd64
 ```
+
 
 > If you have any issue don't hesitate to ask the staff for help 😄
 
