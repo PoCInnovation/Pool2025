@@ -1,0 +1,440 @@
+{
+    "artists": [
+      {
+        "_id": 1,
+        "name": "Michael Jackson",
+        "genre": "pop",
+        "nbfans": 16000000,
+        "musics": [
+            {
+                "_id": 1,
+                "name": "We Are The World",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 2,
+        "name": "PNL",
+        "genre": "rap",
+        "nbfans": 2000000,
+        "musics": [
+            {
+                "_id": 2,
+                "name": "Deux frères",
+                "certification": "Platinum"
+              },
+              {
+                "_id": 3,
+                "name": "Mexico",
+                "certification": "Gold"
+              },
+              {
+                "_id": 12,
+                "name": "Glaive",
+                "certification": "Gold"
+              }
+        ]
+      },
+      {
+        "_id": 3,
+        "name": "Rilès",
+        "genre": "hip-hop/rap",
+        "nbfans": 90000,
+        "musics": [
+            {
+                "_id": 4,
+                "name": "SOUL SPEECH",
+                "certification": "Gold"
+            }          
+        ]
+      },
+      {
+        "_id": 4,
+        "name": "Mac Miller",
+        "genre": "hip-hop/rap",
+        "nbfans": 3200000,
+        "musics": [
+            {
+                "_id": 5,
+                "name": "Jet Fuel",
+                "certification": "Gold"
+            }
+        ]
+      },
+      {
+        "_id": 5,
+        "name": "Billie Eilish",
+        "genre": "alternative",
+        "nbfans": 7000000,
+        "musics": [
+            {
+                "_id": 6,
+                "name": "No Time To Die",
+                "certification": "Platinum"
+            }
+        ]
+      },
+      {
+        "_id": 6,
+        "name": "Sidney Bechet",
+        "genre": "jazz",
+        "nbfans": 300000,
+        "musics": [
+            {
+                "_id": 7,
+                "name": "Petite Fleur",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 7,
+        "name": "Tame Impala",
+        "genre": "alternative",
+        "nbfans": 456000,
+        "musics": [
+            {
+                "_id": 8,
+                "name": "The Less I Know The Better",
+                "certification": "Platinum"
+            }
+        ]
+      },
+      {
+        "_id": 8,
+        "name": "Booba",
+        "genre": "rap",
+        "nbfans": 4200000,
+        "musics": [
+            {
+                "_id": 9,
+                "name": "Avant De partir",
+                "certification": "Gold"
+            },
+            {
+                "_id": 12,
+                "name": "Glaive",
+                "certification": "Gold"
+            },
+            {
+                "_id": 19,
+                "name": "Locked Up",
+                "certification": "Diamond"
+            },
+            {
+                "_id": 20,
+                "name": "Paris c est loin",
+                "certification": "Platinum"
+            }
+        ]
+      },
+      {
+        "_id": 9,
+        "name": "Post Malone",
+        "genre": "hip-hop/rap",
+        "nbfans": 4100000,
+        "musics": [
+            {
+                "_id": 10,
+                "name": "Take What You Want",
+                "certification": "Platinum"
+            }          
+        ]
+      },
+      {
+        "_id": 10,
+        "name": "Aretha Franklin",
+        "genre": "r&b/soul",
+        "nbfans": 230000,
+        "musics": [
+            {
+                "_id": 13,
+                "name": "I say a Little Prayer",
+                "certification": "Gold"
+            }
+        ]
+      },
+      {
+        "_id": 11,
+        "name": "Bebo Valdés",
+        "genre": "pop",
+        "nbfans": 230000,
+        "musics": [
+            {
+                "_id": 14,
+                "name": "La Bella Cubana",
+                "certification": "Gold"
+            }
+        ]
+      },
+      {
+        "_id": 12,
+        "name": "Tokio Myers",
+        "genre": "pop",
+        "nbfans": 80000,
+        "musics": [
+            {
+                "_id": 15,
+                "name": "Our Generation",
+                "certification": "Gold"
+            }
+        ]
+      },
+      {
+        "_id": 13,
+        "name": "Ninho",
+        "genre": "rap",
+        "nbfans": 1900000,
+        "musics": [
+            {
+                "_id": 16,
+                "name": "Promo",
+                "certification": "Platinum"
+            }          
+        ]
+      },
+      {
+        "_id": 14,
+        "name": "Damso",
+        "genre": "rap",
+        "nbfans": 2100000,
+        "musics": [
+            {
+                "_id": 16,
+                "name": "Promo",
+                "certification": "Platinum"
+            },
+            {
+                "_id": 17,
+                "name": "BXL ZOO",
+                "certification": "Platinum"
+            },
+            {
+                "_id": 20,
+                "name": "Paris c est loin",
+                "certification": "Platinum"
+            }
+        ]
+      },
+      {
+        "_id": 15,
+        "name": "Hamza",
+        "genre": "rap",
+        "nbfans": 900000,
+        "musics": [
+            {
+                "_id": 17,
+                "name": "BXL ZOO",
+                "certification": "Platinum"
+            }
+        ]
+      },
+      {
+        "_id": 16,
+        "name": "Eminem",
+        "genre": "rap",
+        "nbfans": 8800000,
+        "musics": [
+            {
+                "_id": 18,
+                "name": "Crack A Bottle",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 17,
+        "name": "Dr Dre",
+        "genre": "rap",
+        "nbfans": 700000,
+        "musics": [
+            {
+                "_id": 18,
+                "name": "Crack A Bottle",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 18,
+        "name": "50 cent",
+        "genre": "rap",
+        "nbfans": 2300000,
+        "musics": [
+            {
+                "_id": 18,
+                "name": "Crack A Bottle",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 19,
+        "name": "Akon",
+        "genre": "reggae",
+        "nbfans": 660000,
+        "musics": [
+            {
+                "_id": 19,
+                "name": "Locked Up",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 20,
+        "name": "Pavarotti",
+        "genre": "classical",
+        "nbfans": 8342000,
+        "musics": [
+            {
+                "_id": 1,
+                "name": "We Are The World",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 21,
+        "name": "Bob Dylan",
+        "genre": "rock",
+        "nbfans": 9939000,
+        "musics": [
+            {
+                "_id": 1,
+                "name": "We Are The World",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 22,
+        "name": "Ray Charles",
+        "genre": "country",
+        "nbfans": 780000,
+        "musics": [
+            {
+                "_id": 1,
+                "name": "We Are The World",
+                "certification": "Diamond"
+            }
+        ]
+      },
+      {
+        "_id": 23,
+        "name": "Diana Ross",
+        "genre": "r&b/soul",
+        "nbfans": 530000,
+        "musics": [
+            {
+                "_id": 1,
+                "name": "We Are The World",
+                "certification": "Diamond"
+            }
+        ]
+      }
+  ],
+  "musics": [
+    {
+      "_id": 1,
+      "name": "We Are The World",
+      "certification": "Diamond"
+    },
+    {
+      "_id": 2,
+      "name": "Deux frères",
+      "certification": "Platinum"
+    },
+    {
+      "_id": 3,
+      "name": "Mexico",
+      "certification": "Gold"
+    },
+    {
+      "_id": 4,
+      "name": "SOUL SPEECH",
+      "certification": "Gold"
+    },
+    {
+      "_id": 5,
+      "name": "Jet Fuel",
+      "certification": "Gold"
+    },
+    {
+      "_id": 6,
+      "name": "No Time To Die",
+      "certification": "Platinum"
+    },
+    {
+      "_id": 7,
+      "name": "Petite Fleur",
+      "certification": "Diamond"
+    },
+    {
+      "_id": 8,
+      "name": "The Less I Know The Better",
+      "certification": "Platinum"
+    },
+    {
+      "_id": 9,
+      "name": "Avant De partir",
+      "certification": "Gold"
+    },
+    {
+      "_id": 10,
+      "name": "Take What You Want",
+      "certification": "Platinum"
+    },
+    {
+      "_id": 11,
+      "name": "Au DD",
+      "certification": "Diamond"
+    },
+    {
+      "_id": 12,
+      "name": "Glaive",
+      "certification": "Gold"
+    },
+    {
+      "_id": 13,
+      "name": "I say a Little Prayer",
+      "certification": "Gold"
+    },
+    {
+      "_id": 14,
+      "name": "La Bella Cubana",
+      "certification": "Gold"
+    },
+    {
+      "_id": 15,
+      "name": "Our Generation",
+      "certification": "Gold"
+    },
+    {
+      "_id": 16,
+      "name": "Promo",
+      "certification": "Platinum"
+    },
+    {
+      "_id": 17,
+      "name": "BXL ZOO",
+      "certification": "Platinum"
+    },
+    {
+      "_id": 18,
+      "name": "Crack A Bottle",
+      "certification": "Diamond"
+    },
+    {
+      "_id": 19,
+      "name": "Locked Up",
+      "certification": "Diamond"
+    },
+    {
+      "_id": 20,
+      "name": "Paris c est loin",
+      "certification": "Platinum"
+    }
+  ]
+}
