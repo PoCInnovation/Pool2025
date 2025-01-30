@@ -15,9 +15,6 @@ This will download foundryup.
 - Then, you can download foundry by running `foundryup`
 - If everything went fine you should be able to use `forge`, `anvil`, `chisel` and `cast`.
 
-```bash
-brew install libusb
-```
 
 After the installation, run the following command to ensure it has been properly installed on your computer:
 
