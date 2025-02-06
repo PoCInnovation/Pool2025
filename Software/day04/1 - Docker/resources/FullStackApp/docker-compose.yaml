@@ -1,0 +1,32 @@
+services:
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks: #???
+
+  server:
+    build: #??
+    ports:
+      - "3001:3001"
+    depends_on:
+      - mongodb
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017/TodoList
+    networks: #???
+
+  client:
+    build: #??
+    ports:
+      - "5173:5173"
+    depends_on: #???
+    networks: #???
+
+networks:
+  mern-network:
+    driver: #???
+
+volumes:
+  mongodb_data:
