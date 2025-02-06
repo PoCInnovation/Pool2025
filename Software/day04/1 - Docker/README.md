@@ -92,8 +92,8 @@ mkdir -p step2
 
 The purpose is to manage a fullstack application within containers.<br>
 This [application](./resources) is composed of:
-- a [PostgreSQL database](https://www.postgresql.org) (to run in a container)
-- a [NestJS](https://nestjs.com) API
+- a [MongoDB database](https://www.mongodb.com/) (to run in a container)
+- a [Express](https://expressjs.com/) API
 - a [React](https://reactjs.org) web application
 
 Here's a simple schema of the application architecture:
@@ -110,29 +110,30 @@ You should end up with the following architecture:
 ```shell
 tree -d
 # .
-# ├── backend
-# │   ├── src
-# │   │   └── notes
-# │   └── test
-# └── frontend
-#     ├── cypress
+# ├── Server (backend)
+# │   ├── Models
+# │   ├── index.js
+# │   └── Dockerfile (to complete)
+# └── ToDoList (frontend)
+#     ├── index.html
 #     ├── public
+#     ├── Dockerfile (to complete)
+#     ├── vite.config.js
 #     └── src
 #         ├── components
-#         │   ├── List
-#         │   ├── Task
-#         │   └── TaskForm
-#         ├── dto
-#         └── services
+#         ├── App.jsx
+#         ├── main.jsx
+#         ├── app.scss
+#         └── index.scss
 #
 # 13 directories
 ```
 
 ### Dockerfiles
 
-As you may notice, there is no `Dockerfile` in `frontend` or `backend`.<br>
-You figured out, you will need to create images for the `frontend` and the `backend`.<br>
-In each directory, create a `Dockerfile` and write a set of instructions to
+As you may notice, the `Dockerfile` in `frontend` or `backend` project are not complete.<br>
+You figured out, you will need to fill them.<br>
+In each directory, complete the `Dockerfile` and write a set of instructions to
 make it work.
 
 > 💡 You will need to test and understand how each program work to containerize it.<br>
