@@ -102,8 +102,7 @@ Here's a simple schema of the application architecture:
 
 ### Lay the foundations
 
-In the directory `step2`, copy the [frontend](./resources/frontend.zip)
-and [backend](./resources/backend.zip) zips and extract them.
+In the directory `step2`, copy the [ressources](./resources/FullStackApp/) files.
 
 You should end up with the following architecture:
 
@@ -126,7 +125,6 @@ tree -d
 #         ├── app.scss
 #         └── index.scss
 #
-# 13 directories
 ```
 
 ### Dockerfiles
