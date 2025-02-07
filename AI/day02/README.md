@@ -1,21 +1,21 @@
 # ~ PoC AI Pool 2025 ~
 
-- ## Day 2: Neural Networks from Scratch
+- ## Day 2: Understand Machine Learning
   - ### Module 1: Linear Regression
-    - **Notebook:** [`linear-regression.ipynb`](./linear-regression.ipynb)
+    - **Notebook:** [`linear_regression.ipynb`](<1 - Regression/linear_regression.ipynb>)
   - ### Module 2: Logistic Regression
-    - **Notebook:** [`logistic-regression.ipynb`](./logistic-regression.ipynb)
-  - ### Module 3: Deep Learning
-    - **Notebook:** [`deep-learning.ipynb`](./deep-learning.ipynb)
+    - **Notebook:** [`logistic_regression.ipynb`](<1 - Regression/logistic_regression.ipynb>)
+  - ### Module 3: Neural Network theory
+    - **Notebook:** [`neural_networks.ipynb`](<2 - Neural Networks/neural_networks.ipynb>)
 
 ---
 
 **Hooray : You've made it to AI !**
-On today's menu, we'll enter the wonderful world of machine learning with two major algorithms : Linear and Logistic Regression, followed by the modern approach of Deep Learning using PyTorch !
+On today's menu, we'll enter the wonderful world of machine learning with two major algorithms : Linear and Logistic Regression, followed by a introduction of the theory behind neural networks !
 
 > Here's a list of resources that we believe can be useful to follow along (and that we've ourselves used to learn these topics before being able to write the subjects):
 
-## Module 1
+## Ressources
 
 - [3b1b's neural network series](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [sentdex's NNFS series & book](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
@@ -23,11 +23,8 @@ On today's menu, we'll enter the wonderful world of machine learning with two ma
 - [the math sorcerer's video on partial derivatives](https://www.youtube.com/watch?app=desktop&v=gnkhT3XDU5s)
 - [khan academy's video on the chain rule](https://www.youtube.com/watch?v=NO3AqAaAE6o)
 
-## Module 2
 
 - [derivating bce loss](https://www.google.com/search?sca_esv=593424282&rlz=1C5CHFA_enFR1086FR1086&sxsrf=AM9HkKnhFXQw46XVx7yP5nyzZOxkebfGWw:1703424283700&q=sigmoid&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwiXptP6laiDAxVBU6QEHVYpCxIQ0pQJegQIDhAB&biw=1512&bih=738&dpr=2)
 
-## Module 3
 
-- [pytorch docs](https://pytorch.org/docs/stable/index.html)
-- [install pytorch](https://pytorch.org/get-started/locally/)
+
