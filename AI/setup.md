@@ -1,6 +1,6 @@
 # Python Setup Guide
 
-This setup guide provides instructions to quickly get started with the AI Pool using a virtual environment (venv), `pip` and a `requirements.txt` file or, as an alternative option, with Docker.
+This setup guide provides instructions to quickly get started with the AI Pool using a virtual environment (`venv`), `pip` and a `requirements.txt` file, or, as an alternative option, Docker.
 
 ## Requirements
 - Python 3.x and `pip` installed on your machine (for venv setup).
@@ -8,14 +8,14 @@ This setup guide provides instructions to quickly get started with the AI Pool u
 
 ## Option 1: Local Setup with Virtual Environment
 
-If you want to set up the environment locally on your machine, you can use a Python virtual environment (venv).
+If you want to set up the environment locally on your machine, you can use a Python virtual environment (`venv`).
 
 ### 1. Create and Activate the Virtual Environment
 
 Navigate to your project directory and create a new virtual environment:
 
 ```bash
-python3 -m venv poc_ai_pool
+python3 -m venv poc_ai_pool_venv
 ```
 
 Activate the virtual environment:
@@ -23,13 +23,13 @@ Activate the virtual environment:
 - On **macOS/Linux**:
 
     ```bash
-    source poc_ai_pool/bin/activate
+    source poc_ai_pool_venv/bin/activate
     ```
 
 - On **Windows**:
 
     ```bash
-    poc_ai_pool\Scripts\activate
+    poc_ai_pool_venv\Scripts\activate
     ```
 
 ### 2. Install Required Packages
@@ -66,9 +66,9 @@ Once the image is pulled, you can start a Docker container that will run the env
 docker run -t -i -v .:/workspace:z -p 8888:8888 laiheau/poc_ai_pool
 ```
 
-This will start a jupyter notebook server, **and copy your current directory in it**. Then, you just need to follow the link in your terminal (see the picture bellow).
+This will start a jupyter notebook server, **and copy your current directory in it**. You read this right, your current directory will be synchronized each seconds with the one in your jupyter notebook server. Then, you just need to follow the link in your terminal (see the picture bellow).
 
-![alt text](image.png)
+![connection to server example picture](image.png)
 
 ## Conclusion
 
